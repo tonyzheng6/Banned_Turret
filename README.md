@@ -11,6 +11,10 @@ Wiring Diagram:
 
 <img src="http://i.imgur.com/ltj4e2Y.png" align="right">
 
+[![ScreenShot](http://i.imgur.com/v6G4c7f.jpg)](https://vid.me/E4Hl)
+
+<iframe src="https://vid.me/e/E4Hl?loop=1" width="640" height="360" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen scrolling="no"></iframe>
+
 Parts List:
 
     1 Arduino Uno R3
